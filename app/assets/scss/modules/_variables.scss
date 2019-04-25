@@ -1,0 +1,27 @@
+//fonts
+$font-primary: "Lato", sans-serif;
+$font-secondary: "Advent Pro", sans-serif;
+$text-base-size: 1em;
+$text-scale-ratio: 1.150;
+$title-size: 0.8em; //text-size
+$text-xs: ($text-base-size / (2 * $text-scale-ratio));
+$text-sm: ($text-base-size / $text-scale-ratio);
+$text-lg: ($text-base-size * $text-scale-ratio);
+$text-xl: ($text-base-size * (2 * $text-scale-ratio)); //line-height
+$baseline: 1.5em;
+$line-sm: $baseline/2;
+$line-lg: $baseline*2;
+$line-xl: $baseline*3; //colors
+$white: #fff;
+$black: #000;
+$plumage-green-dark: #00cc99;
+$plumage-green-light: #00cc99;
+$plumage-purple: #C6ACE2;
+$grey1: #b3b3b3;
+$grey2: #757575;
+$grey3: #e5e5e5;
+$grey4: #f2f2f2;
+$transparent-white: rgba(255, 255, 255, 0.3); //layout
+$space1: 0.5em;
+$space2: 1em;
+$space3: 3em;

@@ -1,0 +1,1824 @@
+{
+  "artists": [
+    {
+      "name": "Peter Aurisch",
+      "style": ["abstract", "modern"],
+      "location": "",
+      "studio": "Neveda Jhonny",
+      "instagram": "https://www.instagram.com/peteraurisch",
+      "facebook": "",
+      "email": "ilike@peteraurisch.com peteraurisch@yahoo.de",
+      "website": "http://peteraurisch.com"
+    },
+    {
+      "name": "Lus Lips",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "Loxodrom Tattoo Berlin",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/loxodromtattooberlin",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Maria Koroleva",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "Loxodrom Tattoo Berlin",
+      "instagram": "https://www.instagram.com/malimalia",
+      "facebook": "",
+      "email": "",
+      "website": "https://www.malimalia.com/"
+    },
+    {
+      "name": "Sal Ome aka X and the Death",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "19 : 28 tattoo club",
+      "instagram": "https://www.instagram.com/xandthedeath_tattoo/",
+      "facebook": "",
+      "email": "xandthedeath@gmail.com",
+      "website": ""
+    },
+    {
+      "name": "Wahid Echad",
+      "style": ["black-and-white", "sketch-work"],
+      "location": "",
+      "studio": "19 : 28 tattoo club",
+      "instagram": "https://www.instagram.com/wahid.echad/",
+      "facebook": "https://www.facebook.com/wahid.betroji",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Nicola Fusili",
+      "style": ["black-and-white", "heavy"],
+      "location": "",
+      "studio": "19 : 28 tattoo club",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/profile.php?id=1645116889&ref=br_rs",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Tana",
+      "style": ["black-and-white", "illustration"],
+      "location": "",
+      "studio": "19 : 28 tattoo club",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": "https://www.19-28tattoo.com/19-28-tattoo-club-berlin/artists/tana/"
+    },
+    {
+      "name": "Takayama",
+      "style": "traditional",
+      "location": "",
+      "studio": "19 : 28 tattoo club",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": "https://www.19-28tattoo.com/19-28-tattoo-club-berlin/artists/takayama/"
+    },
+    {
+      "name": "Barbara Pavlova",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "19 : 28 tattoo club",
+      "instagram": "https://www.instagram.com/pavlovatattoo/",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sebastian Domaschke",
+      "style": ["traditional", "oldschool"],
+      "location": "",
+      "studio": "Lowbrow Tattoo Parlour",
+      "instagram": "https://www.instagram.com/sebastiandomaschke/",
+      "facebook": "",
+      "email": "info@sebastiandomaschke.com domaschkesebastian@gmail.com",
+      "website": "http://www.sebastiandomaschke.com/"
+    },
+    {
+      "name": "Matthias",
+      "style": "traditional",
+      "location": "",
+      "studio": "Lowbrow Tattoo Parlour",
+      "instagram": "https://www.instagram.com/matthiasboettcher/",
+      "facebook": "https://www.facebook.com/boettchermatthias/",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Adriaan Machete",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "Machete Death Gallery",
+      "instagram": "https://www.instagram.com/adriaan_machete",
+      "facebook": "https://www.facebook.com/Adriaan-Machete-1875547702673953/",
+      "email": "antimuerte@yahoo.com",
+      "website": ""
+    },
+    {
+      "name": "Tony Adler",
+      "style": ["illustration", "black-and-white", "colors"],
+      "location": "",
+      "studio": "Alter Schwan",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Okan",
+      "style": "oldschool",
+      "location": "",
+      "studio": "NOSTUDIO",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sarah B Bolen",
+      "style": ["black-and-white", "neo-traditional", "oldschool"],
+      "location": "",
+      "studio": "NOSTUDIO",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Adrià de Yzaguirre",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "NOSTUDIO",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "3KREUZE",
+      "style": "black-work",
+      "location": "",
+      "studio": "NOSTUDIO",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ka TA",
+      "style": ["black-and-white", "graphic"],
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Stefan Semt",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "Signs and wonders",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Tobi Bueller",
+      "style": "trash-polka",
+      "location": "",
+      "studio": "Signs and wonders",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Karl Frey",
+      "style": ["dotwork", "fine-line", "traditional", "black work"],
+      "location": "",
+      "studio": "Karl Keuzstich Studio",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Esther de Miguel",
+      "style": "traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Mark Halbstark",
+      "style": "black-work",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Jakub Settgast",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Larissa Domin",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Cory Capelli",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Jessica Mach",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Santi",
+      "style": "handpoke",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Aero",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Unio",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ruslan",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Florian Riffel",
+      "style": "realistic",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Carlos Beitia",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Toshi Hide",
+      "style": "japanese",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "bhoman",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Hamid Sulaiman",
+      "style": ["black-work", "graphic"],
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Fabian Nitz",
+      "style": "traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Steffi Boecker",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Brian Kelly",
+      "style": "traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Eike Multhoff",
+      "style": "traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Christoph Dieskau",
+      "style": "traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "GEORGIE HARRISON",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "PHILIPPE FERNANDEZ",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "SOPHIE LEE",
+      "style": ["black-and-white", "minimal"],
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "BOBBY ANDERS",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "KAMIL MOKOT",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "ARTHUR PERFETTO",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "ANT THE ELDER",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Wendy Pham",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Guen Douglas",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Lorena Morato",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Markus Lenhard",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sarah B Bolen",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "A.A.tattooer",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Michelle Nicole",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "dirt.merchant",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Matteo Al Denti",
+      "style": "black-work",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ivan Antikapratika",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Alkfaen",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Christoph Aribert",
+      "style": "black-and-white",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ina Bär",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Renan Batista",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Blaine C. Rose",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Marcel Birkenhauer",
+      "style": ["black-work", "geometric"],
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Blanka Biro",
+      "style": "realistic",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Steffi Boecker",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Marcio Bornholdt",
+      "style": "realistic",
+      "location": "",
+      "studio": "lalaal",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Thomas Burkhardt",
+      "style": "black-work",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Max Cara",
+      "style": "black-work",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Carina Anne",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Cata",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Hala Chaya",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Christin",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Chrisszn",
+      "style": "sketch-work",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Daisydoestattoos",
+      "style": ["minimal", "black-and-white"],
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Luca Degenerate",
+      "style": "neo-traditional",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Esther de Miguel",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Dirt Merchant",
+      "style": "black-work",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Adria Deyza",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Guen Douglas",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "ds_008",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Cobe Edge",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Anna Enola",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Axel Ejsmont",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Christian Eisenhofer",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Philippe Fernandez",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Mirja Fenris",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Fercha Pombo",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Henja Fin",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Marc Fischer",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Nicola Fucili",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Mo Ganji",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Gakni Gallo",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Daniel Gensch",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Hannes",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Mario Hartmann",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Donovan Hernandez",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sarah Herzdame",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Florian Hirnhack",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Valentin Hirsch",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Rita Humbug",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Martin Jahn",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Joline",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Jurena",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sara Kaltenhauser",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Nick Kater",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Katze",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Paulina Kemnitz",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Milena Kirsche",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Kmorebi",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "KOit",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Marie Kraus",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Kreatyves",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Nico Kreuzig",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Maya Kubitza",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Aga Kura",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Finn Laudwein",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sophie Lee",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Markus Lenhard",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Buio Letizi",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Daniel Letterman",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Caro Ley",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Jascha Leven",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Björn Liebner",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Lina Tattoo Art",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Luci Lou",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Lugosis",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Jessica Mach",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Madame Chän",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Chaim Machlev",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Agnieszka Machnik",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "(The)Magic Rosa",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Malimalia",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Manuel Mathow",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Iban Maya",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "The Kasm of Meerak Meinohg",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ivan Milašinović",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Linda Minervas",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Mo Mori",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Neon Judas",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Okanakgöl",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Wendy Pham",
+      "style": "neo-japanese",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Alessandro Potenzano",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ela Pour",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Brian Povak",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Mauro Quaresima",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ma Reeni",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Julia Rehme",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Andy Rest Less",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Finja Riefenstahl",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Blacky Rixdorf",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Carlo Roffare",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sara Rosenbaum",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Igor Sarkanice",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Marco Schmidgunst",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Tanja Schulze",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Felix Seele",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Oliver Strupp",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Jakub Settgast",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Carlo Sohl",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Tobi der Dude",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Julia Toebel",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Matteo Turcato",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Uncle Allan",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sanne Vaghi",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Dick Verdammt",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Sven von Kratz",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Gerhard Wiesbeck",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Laura Yahna",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Victor Zabuga",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Anna Zachariades",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Toni Zander",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Zidvisions",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Ed Zlotin",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Nastia Zlotin",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Tomi Zlott",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "biel carpenter",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Lina Tattoo Art",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "Shani Nizan",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "paulina.kemnitz",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "rodrigotas",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    },
+    {
+      "name": "innocence",
+      "style": "",
+      "location": "",
+      "studio": "",
+      "instagram": "",
+      "facebook": "",
+      "email": "",
+      "website": ""
+    }
+  ]
+}
